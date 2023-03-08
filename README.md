@@ -19,9 +19,9 @@ Or you can click the green `Use this template` to automagically make a new repo 
 
 <br />
 
-Then, open it in VSCode.
+Then, open it in VSCode,
 
-Then, install SFML using homebrew
+install SFML using homebrew
 
 ```
 brew install sfml
