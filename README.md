@@ -15,7 +15,7 @@ First, clone this repo
 ```
 git clone https://github.com/beatzoid/sfml-macos
 ```
-Or you can click the green `Use this template` to automagically make a new repo under your account with all the files and then clone that.
+Or you can click the green `Use this template` to automagically make a new repo under your account with all the files ([example](https://github.com/Beatzoid/sfml-template-test)) and then clone that.
 
 <br />
 
