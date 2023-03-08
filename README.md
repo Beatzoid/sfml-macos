@@ -27,7 +27,7 @@ Then, install SFML using homebrew
 brew install sfml
 ```
 
-Then, get the path to the installation
+and get the path to the installation
 
 ```
 brew info sfml
