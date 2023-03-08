@@ -15,8 +15,11 @@ First, clone this repo
 ```
 git clone https://github.com/beatzoid/sfml-macos
 ```
+Or you can click the green `Use this template` to automagically make a new repo under your account with all the files and then clone that.
 
-and open it in VSCode.
+<br />
+
+Then, open it in VSCode.
 
 Then, install SFML using homebrew
 
