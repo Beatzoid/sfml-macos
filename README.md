@@ -38,6 +38,9 @@ Edit the `build.sh` script and change the `SFML_PATH` variable to the path you g
 
 Then, press `Cmd+Shift+B` in VSCode to build and `Fn+F5` to run. If it works, you should see a window with a black background and cyan circle. Once you exit the program, you should also see the number "5" in the debug console. Congrats, you can now make whatever you want with SFML!
 
+# Todo
+- [ ] Convert from using a shell script to a Makefile. A Makefile would be much better over a shell script but I couldn't figure out how to get it to work. If you figure it out, please submit a PR :)
+
 # Credit
 
 [This](https://stackoverflow.com/a/73402250/10626998) StackOverflow answer
