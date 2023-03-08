@@ -1,6 +1,6 @@
 # SFML C++ MacOS Example
 
-A very simple example of how to use SFML on MacOS
+A very simple example of how to use SFML in VSCode on MacOS
 
 # Prerequisites
 
