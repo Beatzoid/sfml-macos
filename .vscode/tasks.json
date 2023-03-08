@@ -3,7 +3,7 @@
         {
             "type": "shell",
             "label": "Build",
-            "command": "${workspaceFolder}/build.sh",
+            "command": "make",
             "options": {
                 "cwd": "${workspaceFolder}"
             },
